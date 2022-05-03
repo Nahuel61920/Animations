@@ -1,4 +1,4 @@
-# React Navbar
+# React Animations
 
 ## Developed in React and using AOS.js librarie
 
